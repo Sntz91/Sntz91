@@ -1,6 +1,15 @@
 ### Tobias Ziegler
 ``` PHD Candidate ```
 
+
+#### Work
+- Currently working at HAW Landshut
+- Previously:
+  - Data Scientist at E.ON
+ 
+#### Education
+...
+
 <!--
 **Sntz91/Sntz91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
